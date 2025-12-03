@@ -1,3 +1,5 @@
 // customer A - updated
 bug-fix-by-master-file1
 
+cherry-pick-of-customerB
+(bug-fix-by-customerB)
